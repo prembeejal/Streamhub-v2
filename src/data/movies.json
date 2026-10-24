@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Crimson Protocol",
+    "year": 2025,
+    "rating": 8.9,
+    "genres": ["Action", "Thriller"],
+    "description": "A disgraced agent has 48 hours to stop a syndicate from detonating a city-wide blackout.",
+    "poster": "https://picsum.photos/seed/crimson/500/750",
+    "backdrop": "https://picsum.photos/seed/crimson/1600/900"
+  },
+  {
+    "id": 2,
+    "title": "Midnight Carnival",
+    "year": 2024,
+    "rating": 7.6,
+    "genres": ["Horror", "Mystery"],
+    "description": "When a travelling carnival arrives in a sleepy town, its visitors begin to vanish after dark.",
+    "poster": "https://picsum.photos/seed/carnival/500/750",
+    "backdrop": "https://picsum.photos/seed/carnival/1600/900"
+  },
+  {
+    "id": 3,
+    "title": "Laugh Track",
+    "year": 2023,
+    "rating": 7.1,
+    "genres": ["Comedy"],
+    "description": "Three washed-up sitcom actors reunite for a reboot and discover the studio's real plan.",
+    "poster": "https://picsum.photos/seed/laugh/500/750",
+    "backdrop": "https://picsum.photos/seed/laugh/1600/900"
+  },
+  {
+    "id": 4,
+    "title": "Neon Requiem",
+    "year": 2025,
+    "rating": 8.4,
+    "genres": ["Sci-Fi", "Drama"],
+    "description": "In a rain-soaked megacity, a memory broker uncovers a stolen recollection.",
+    "poster": "https://picsum.photos/seed/neon/500/750",
+    "backdrop": "https://picsum.photos/seed/neon/1600/900"
+  },
+  {
+    "id": 5,
+    "title": "The Last Reel",
+    "year": 2022,
+    "rating": 8.1,
+    "genres": ["Drama"],
+    "description": "An aging projectionist fights to keep his small-town cinema alive for one final screening.",
+    "poster": "https://picsum.photos/seed/reel/500/750",
+    "backdrop": "https://picsum.photos/seed/reel/1600/900"
+  },
+  {
+    "id": 6,
+    "title": "Iron Hollow",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": ["Action", "Sci-Fi"],
+    "description": "A squad of mercenaries is hired to escort a mysterious cargo across a frozen wasteland.",
+    "poster": "https://picsum.photos/seed/iron/500/750",
+    "backdrop": "https://picsum.photos/seed/iron/1600/900"
+  }
+]
